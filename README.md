@@ -23,7 +23,7 @@ Además, el Code Editor fomenta la colaboración y el intercambio de proyectos. 
 
  A continuacion presentare un recopilatorio de scripts que correspondes a aplicaciones creadas a partir de datos geoespaciales en la region de argentina y chile.
  
- 1) Aplicación Cordobaengine:La aplicación Cordobaengine ha sido diseñada para brindar una experiencia visual única y detallada de los puntos más altos de la región de las Sierras Pampeanas en Argentina. Utilizando datos geoespaciales, esta aplicación ofrece una visualización inmersiva de la topografía, hidrografía y estructuras geológicas de estas áreas. ¡Prepárate para descubrir la majestuosidad de estas regiones montañosas!
+1. Aplicación Cordobaengine:La aplicación Cordobaengine ha sido diseñada para brindar una experiencia visual única y detallada de los puntos más altos de la región de las Sierras Pampeanas en Argentina. Utilizando datos geoespaciales, esta aplicación ofrece una visualización inmersiva de la topografía, hidrografía y estructuras geológicas de estas áreas. ¡Prepárate para descubrir la majestuosidad de estas regiones montañosas!
 
 La característica principal de Cordobaengine es su representación en un modelo de elevación digital (DEM, por sus siglas en inglés). Este modelo muestra las elevaciones de la región en forma de mapas tridimensionales interactivos, lo que te permite explorar y comprender mejor la topografía de las Sierras Pampeanas. Podrás identificar las cumbres más altas, los valles profundos y las características geográficas distintivas de esta zona montañosa.
 
@@ -34,3 +34,17 @@ La representación de las estructuras geológicas es otra característica fascin
 Para enriquecer aún más la experiencia, Cordobaengine también presenta una imagen satelital de alta resolución de la región. Utilizando la colección Landsat, podrás apreciar la belleza de estas áreas desde una perspectiva orbital, capturando detalles asombrosos de las Sierras Pampeanas y sus alrededores.
 
  https://juannnmanuelll.users.earthengine.app/view/cordobaengine
+
+2.  La aplicación "highest-points-of-argentina-glaciar-hydro--dem" ha sido creada para brindar una visualización detallada de los puntos más altos de la región de la Cordillera de los Andes en Argentina. Esta aplicación utiliza datos geoespaciales para ofrecer una experiencia inmersiva en la que podrás explorar y comprender mejor la topografía, glaciares, hidrografía y estructuras geológicas de las áreas situadas en las latitudes de Mendaza, San Juan, La Rioja, Catamarca y Salta.
+
+El corazón de la aplicación es la representación de un modelo de elevación digital (DEM) que muestra las elevaciones de la Cordillera de los Andes en forma de mapas tridimensionales interactivos. Podrás explorar las cumbres más altas, los valles profundos y los detalles de la topografía en estas áreas. Esto te permitirá tener una visión más clara de la magnificencia de la Cordillera de los Andes y comprender cómo la geografía influye en la formación de este majestuoso sistema montañoso.
+
+Además del DEM, la aplicación también presenta una visualización de los glaciares de la región. Podrás identificar las masas de hielo y cómo interactúan con el paisaje montañoso. Esta característica te permitirá apreciar la importancia de los glaciares en el ciclo del agua y su influencia en el medio ambiente circundante.
+
+La hidrografía superficial es otro elemento destacado de la aplicación. Podrás explorar los ríos, arroyos y cuerpos de agua presentes en la región, y comprender cómo fluyen a través de la Cordillera de los Andes. Esta visualización proporciona información valiosa sobre la distribución del agua en estas áreas y su importancia para los ecosistemas locales.
+
+La representación de las estructuras geológicas en la aplicación te permitirá explorar las formaciones rocosas y las características geológicas clave de la región. Podrás identificar fallas, pliegues y otras estructuras que son el resultado de procesos geológicos a largo plazo. Esto te ayudará a comprender mejor la historia geológica de la Cordillera de los Andes y cómo ha evolucionado a lo largo del tiempo.
+
+Para enriquecer aún más la experiencia, la aplicación "highest-points-of-argentina-glaciar-hydro--dem" incluye una imagen satelital de alta resolución de la región. Utilizando la colección Landsat, podrás apreciar detalles asombrosos de la Cordillera de los Andes y su entorno circundante.
+
+https://juannnmanuelll.users.earthengine.app/view/highest-points-of-argentina-glaciar-hydro--dem
