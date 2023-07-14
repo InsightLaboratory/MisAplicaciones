@@ -20,3 +20,17 @@ https://developers.google.com/earth-engine/datasets/catalog
 El Code Editor combina un editor de texto intuitivo con una consola interactiva y una interfaz de visualización dinámica. Aquí puedes escribir scripts en JavaScript o Python, acceder a los datos del Data Catalog y utilizar las bibliotecas y herramientas de Earth Engine para realizar análisis sofisticados. El Code Editor también incluye funciones útiles como la autocompletación de código, el resaltado de sintaxis y la depuración interactiva para ayudarte a escribir y depurar tu código de manera eficiente.
 
 Además, el Code Editor fomenta la colaboración y el intercambio de proyectos. Puedes invitar a otros usuarios a colaborar en tiempo real, lo que facilita el trabajo en equipo y el intercambio de conocimientos. También puedes guardar y versionar tus scripts, lo que te permite volver a versiones anteriores y realizar un seguimiento de tus cambios a lo largo del tiempo.
+
+ A continuacion presentare un recopilatorio de scripts que correspondes a aplicaciones creadas a partir de datos geoespaciales en la region de argentina y chile.
+ 
+ 1) Aplicación Cordobaengine:La aplicación Cordobaengine ha sido diseñada para brindar una experiencia visual única y detallada de los puntos más altos de la región de las Sierras Pampeanas en Argentina. Utilizando datos geoespaciales, esta aplicación ofrece una visualización inmersiva de la topografía, hidrografía y estructuras geológicas de estas áreas. ¡Prepárate para descubrir la majestuosidad de estas regiones montañosas!
+
+La característica principal de Cordobaengine es su representación en un modelo de elevación digital (DEM, por sus siglas en inglés). Este modelo muestra las elevaciones de la región en forma de mapas tridimensionales interactivos, lo que te permite explorar y comprender mejor la topografía de las Sierras Pampeanas. Podrás identificar las cumbres más altas, los valles profundos y las características geográficas distintivas de esta zona montañosa.
+
+Además del DEM, la aplicación también muestra la hidrografía superficial de la región. Esto incluye ríos, arroyos y lagos que fluyen a través de las Sierras Pampeanas. Podrás visualizar cómo los cuerpos de agua se entrelazan con el paisaje montañoso, brindando una comprensión más completa de la interacción entre el agua y la topografía en estas áreas.
+
+La representación de las estructuras geológicas es otra característica fascinante de Cordobaengine. A través de la aplicación, podrás explorar las diferentes formaciones rocosas y fallas geológicas presentes en la región. Esto te permitirá tener una visión más clara de la historia geológica de las Sierras Pampeanas y comprender cómo han evolucionado a lo largo del tiempo.
+
+Para enriquecer aún más la experiencia, Cordobaengine también presenta una imagen satelital de alta resolución de la región. Utilizando la colección Landsat, podrás apreciar la belleza de estas áreas desde una perspectiva orbital, capturando detalles asombrosos de las Sierras Pampeanas y sus alrededores.
+
+ https://juannnmanuelll.users.earthengine.app/view/cordobaengine
