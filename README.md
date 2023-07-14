@@ -3,7 +3,7 @@ En las últimas décadas, el rápido avance de la tecnología espacial y la reco
 
 https://developers.google.com/earth-engine/guides/getstarted
 
-![Texto alternativo]([MisAplicaciones/ee1.png])
+![Texto alternativo]([Main/MisAplicaciones/ee1.png])
 
 Una de las características más destacadas de Earth Engine es su capacidad para procesar datos a escala global. Imagina poder analizar imágenes de alta resolución de cualquier lugar del mundo, y combinarlas con datos climáticos, información sobre la vegetación, la topografía y otros parámetros relevantes. Con Earth Engine, se abren infinitas posibilidades para investigaciones científicas en una amplia variedad de campos, desde la ecología y la conservación hasta la gestión de desastres y el cambio climático. Prepárate para descubrir patrones ocultos, revelar tendencias significativas y obtener una nueva perspectiva sobre nuestro planeta. Earth Engine está aquí para impulsar tu investigación y ayudarte a tomar decisiones informadas para un futuro sostenible.
 
