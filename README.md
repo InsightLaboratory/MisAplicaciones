@@ -8,14 +8,12 @@ Una de las características más destacadas de Earth Engine es su capacidad para
 Ahora, hablemos del Code Editor de Earth Engine, una herramienta integral que te permite explorar y experimentar con los datos geoespaciales de manera eficiente. El Code Editor es un entorno de desarrollo en línea que combina un editor de texto, una consola interactiva y una interfaz de visualización. Aquí es donde puedes escribir y ejecutar tu código, ver los resultados de manera instantánea y visualizar tus análisis en forma de mapas, gráficos y más.
 
 https://code.earthengine.google.com/
-
+https://developers.google.com/earth-engine/datasets/catalog
 ![Texto alternativo](https://github.com/InsightLaboratory/MisAplicaciones/blob/main/ee1.png?raw=true)
 
 Una de las bibliotecas más poderosas en Earth Engine es la API de JavaScript, que te permite escribir y ejecutar código personalizado para manipular y analizar datos geoespaciales. Con la API de JavaScript, puedes acceder a las imágenes de satélite y datos ambientales almacenados en la nube de Earth Engine, aplicar algoritmos de procesamiento avanzados y visualizar los resultados de manera interactiva. Otra biblioteca destacada es la biblioteca de Python, que brinda a los desarrolladores la flexibilidad de trabajar en un entorno de programación familiar. Con la biblioteca de Python, puedes aprovechar el poder de Earth Engine desde tu entorno de desarrollo preferido, acceder a las funciones y datos de Earth Engine, y realizar análisis geoespaciales sofisticados utilizando el lenguaje de programación Python.
 
 El Data Catalog es una colección exhaustiva de conjuntos de datos geoespaciales, que incluye imágenes de satélite, datos climáticos, mapas de cobertura terrestre, mediciones atmosféricas y mucho más. Estos conjuntos de datos están cuidadosamente curados, verificados y actualizados regularmente para garantizar su confiabilidad y relevancia en la investigación científica.
-
-https://developers.google.com/earth-engine/datasets/catalog
 
 El Code Editor combina un editor de texto intuitivo con una consola interactiva y una interfaz de visualización dinámica. Aquí puedes escribir scripts en JavaScript o Python, acceder a los datos del Data Catalog y utilizar las bibliotecas y herramientas de Earth Engine para realizar análisis sofisticados. El Code Editor también incluye funciones útiles como la autocompletación de código, el resaltado de sintaxis y la depuración interactiva para ayudarte a escribir y depurar tu código de manera eficiente.
 
@@ -28,6 +26,11 @@ Además, el Code Editor fomenta la colaboración y el intercambio de proyectos. 
 ![Texto alternativo](https://github.com/InsightLaboratory/MisAplicaciones/blob/main/ee2.png?raw=true)
 
 La aplicación "highest-points-of-argentina-glaciar-hydro--dem" ha sido creada para brindar una visualización detallada de los puntos más altos de la región de la Cordillera de los Andes en Argentina. Esta aplicación utiliza datos geoespaciales para ofrecer una experiencia inmersiva en la que podrás explorar y comprender mejor la topografía, glaciares, hidrografía y estructuras geológicas de las áreas situadas en las latitudes de Mendaza, San Juan, La Rioja, Catamarca y Salta.
+App:
+https://juannnmanuelll.users.earthengine.app/view/highest-points-of-argentina-glaciar-hydro--dem
+
+Script:
+https://github.com/InsightLaboratory/MisAplicaciones/blob/main/highest-points-of-argentina-glaciar-hydro--dem.js
 
 El corazón de la aplicación es la representación de un modelo de elevación digital (DEM) que muestra las elevaciones de la Cordillera de los Andes en forma de mapas tridimensionales interactivos. Podrás explorar las cumbres más altas, los valles profundos y los detalles de la topografía en estas áreas. Esto te permitirá tener una visión más clara de la magnificencia de la Cordillera de los Andes y comprender cómo la geografía influye en la formación de este majestuoso sistema montañoso.
 
@@ -39,11 +42,7 @@ La representación de las estructuras geológicas en la aplicación te permitir�
 
 Para enriquecer aún más la experiencia, la aplicación "highest-points-of-argentina-glaciar-hydro--dem" incluye una imagen satelital de alta resolución de la región. Utilizando la colección Landsat, podrás apreciar detalles asombrosos de la Cordillera de los Andes y su entorno circundante.
 
-App:
-https://juannnmanuelll.users.earthengine.app/view/highest-points-of-argentina-glaciar-hydro--dem
 
-Script:
-https://github.com/InsightLaboratory/MisAplicaciones/blob/main/highest-points-of-argentina-glaciar-hydro--dem.js
 
  
 1. Aplicación Cordobaengine:La aplicación Cordobaengine ha sido diseñada para brindar una experiencia visual única y detallada de los puntos más altos de la región de las Sierras Pampeanas en Argentina. Utilizando datos geoespaciales, esta aplicación ofrece una visualización inmersiva de la topografía, hidrografía y estructuras geológicas de estas áreas. ¡Prepárate para descubrir la majestuosidad de estas regiones montañosas!
