@@ -8,7 +8,9 @@ Una de las características más destacadas de Earth Engine es su capacidad para
 Ahora, hablemos del Code Editor de Earth Engine, una herramienta integral que te permite explorar y experimentar con los datos geoespaciales de manera eficiente. El Code Editor es un entorno de desarrollo en línea que combina un editor de texto, una consola interactiva y una interfaz de visualización. Aquí es donde puedes escribir y ejecutar tu código, ver los resultados de manera instantánea y visualizar tus análisis en forma de mapas, gráficos y más.
 
 https://code.earthengine.google.com/
+
 https://developers.google.com/earth-engine/datasets/catalog
+
 ![Texto alternativo](https://github.com/InsightLaboratory/MisAplicaciones/blob/main/ee1.png?raw=true)
 
 Una de las bibliotecas más poderosas en Earth Engine es la API de JavaScript, que te permite escribir y ejecutar código personalizado para manipular y analizar datos geoespaciales. Con la API de JavaScript, puedes acceder a las imágenes de satélite y datos ambientales almacenados en la nube de Earth Engine, aplicar algoritmos de procesamiento avanzados y visualizar los resultados de manera interactiva. Otra biblioteca destacada es la biblioteca de Python, que brinda a los desarrolladores la flexibilidad de trabajar en un entorno de programación familiar. Con la biblioteca de Python, puedes aprovechar el poder de Earth Engine desde tu entorno de desarrollo preferido, acceder a las funciones y datos de Earth Engine, y realizar análisis geoespaciales sofisticados utilizando el lenguaje de programación Python.
@@ -26,6 +28,7 @@ Además, el Code Editor fomenta la colaboración y el intercambio de proyectos. 
 ![Texto alternativo](https://github.com/InsightLaboratory/MisAplicaciones/blob/main/ee2.png?raw=true)
 
 La aplicación "highest-points-of-argentina-glaciar-hydro--dem" ha sido creada para brindar una visualización detallada de los puntos más altos de la región de la Cordillera de los Andes en Argentina. Esta aplicación utiliza datos geoespaciales para ofrecer una experiencia inmersiva en la que podrás explorar y comprender mejor la topografía, glaciares, hidrografía y estructuras geológicas de las áreas situadas en las latitudes de Mendaza, San Juan, La Rioja, Catamarca y Salta.
+
 App:
 https://juannnmanuelll.users.earthengine.app/view/highest-points-of-argentina-glaciar-hydro--dem
 
