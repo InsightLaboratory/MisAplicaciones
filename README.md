@@ -47,8 +47,11 @@ La representación de las estructuras geológicas en la aplicación te permitir�
 
 Para enriquecer aún más la experiencia, la aplicación "highest-points-of-argentina-glaciar-hydro--dem" incluye una imagen satelital de alta resolución de la región. Utilizando la colección Landsat, podrás apreciar detalles asombrosos de la Cordillera de los Andes y su entorno circundante.
 
+App:
 https://juannnmanuelll.users.earthengine.app/view/highest-points-of-argentina-glaciar-hydro--dem
 
+Script:
+https://github.com/InsightLaboratory/MisAplicaciones/blob/main/highest-points-of-argentina-glaciar-hydro--dem.js
 
 
 
