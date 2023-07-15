@@ -25,6 +25,8 @@ Además, el Code Editor fomenta la colaboración y el intercambio de proyectos. 
 
  A continuacion presentare un recopilatorio de scripts que correspondes a aplicaciones creadas a partir de datos geoespaciales en la region de argentina y chile.
 
+![Texto alternativo](https://github.com/InsightLaboratory/MisAplicaciones/blob/main/ee2.png?raw=true)
+
 La aplicación "highest-points-of-argentina-glaciar-hydro--dem" ha sido creada para brindar una visualización detallada de los puntos más altos de la región de la Cordillera de los Andes en Argentina. Esta aplicación utiliza datos geoespaciales para ofrecer una experiencia inmersiva en la que podrás explorar y comprender mejor la topografía, glaciares, hidrografía y estructuras geológicas de las áreas situadas en las latitudes de Mendaza, San Juan, La Rioja, Catamarca y Salta.
 
 El corazón de la aplicación es la representación de un modelo de elevación digital (DEM) que muestra las elevaciones de la Cordillera de los Andes en forma de mapas tridimensionales interactivos. Podrás explorar las cumbres más altas, los valles profundos y los detalles de la topografía en estas áreas. Esto te permitirá tener una visión más clara de la magnificencia de la Cordillera de los Andes y comprender cómo la geografía influye en la formación de este majestuoso sistema montañoso.
