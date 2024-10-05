@@ -1,4 +1,4 @@
-# MisAplicaciones
+# MisAplicaciciones en Google Earth Engine
 En las últimas décadas, el rápido avance de la tecnología espacial y la recopilación de datos geoespaciales han brindado una oportunidad sin precedentes para el análisis científico. Sin embargo, el procesamiento y la gestión de estos datos masivos presentan desafíos significativos. Es aquí donde entra en juego Earth Engine, una plataforma desarrollada por Google que aprovecha la potencia de la nube para facilitar el análisis de datos geoespaciales a gran escala.
 
 https://developers.google.com/earth-engine/guides/getstarted
